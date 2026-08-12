@@ -43,27 +43,36 @@ Building modern web applications, scalable APIs & intelligent digital experience
 
 <h2 align="center">👨‍💻 About Me</h2>
 
+<br />
+
 <div align="center">
 
-I’m a <b>Full Stack Developer</b> specializing in the <b>MERN Stack</b>,
-focused on building modern and production-ready web applications.
+<img
+  src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer+🚀;MERN+Stack+Developer+💻;Building+Modern+Web+Applications+⚡;Creating+Scalable+APIs+🔗;Exploring+AI-Powered+Applications+🤖&center=true&width=700&height=50&font=Fira+Code&size=22&pause=1000&color=58A6FF"
+  alt="About Me Animation"
+/>
 
 <br />
 <br />
 
-I work across <b>Frontend, Backend, APIs, Databases & AI Integrations</b>,
-with a strong focus on clean architecture, responsive interfaces and real-world problem solving.
+<table>
+<tr>
+<td align="center" width="800">
 
-<br />
-<br />
-
-Currently exploring <b>Advanced React, Backend Architecture, Real-Time Systems & AI-powered applications.</b>
-
-</div>
-
-<br />
-
----
+```text
+┌──────────────────────────────────────────────────────┐
+│  👋 Hello, I'm Sagar Singh Khangarot                 │
+│                                                      │
+│  🚀 Full Stack Developer                             │
+│  ⚡ MERN Stack • REST APIs • AI                      │
+│                                                      │
+│  🧩 Building modern & production-ready applications  │
+│  🔐 Secure authentication & scalable APIs            │
+│  ⚛️ Responsive & interactive user experiences        │
+│  🤖 Exploring AI-powered applications                │
+│                                                      │
+│  🎯 Build → Learn → Improve → Ship                   │
+└──────────────────────────────────────────────────────┘
 
 <!-- ===================== TECH STACK ===================== -->
 
@@ -72,7 +81,7 @@ Currently exploring <b>Advanced React, Backend Architecture, Real-Time Systems &
 <br />
 
 <div align="center">
-
+<h3>💻 Languages</h3>
 <img
   src="https://skillicons.dev/icons?i=javascript,typescript,python,cpp,java"
   alt="Programming Languages"
