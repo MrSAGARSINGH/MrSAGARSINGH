@@ -2,6 +2,11 @@
 <!--                    SAGAR SINGH KHANGAROT                       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
+ <img
+    src="https://komarev.com/ghpvc/?username=MrSAGARSINGH&style=flat-square&color=2196F3&label=PROFILE+VIEWS"
+    alt="Profile Views"
+  />
+
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;I'm+Sagar+Singh+Khangarot;Full+Stack+Developer+🚀;MERN+Stack+Developer+💻;AI+Enthusiast+🤖&center=true&font=Righteous&size=30" />
@@ -46,10 +51,6 @@
 <br />
 <br />
 
- <img
-    src="https://komarev.com/ghpvc/?username=MrSAGARSINGH&style=flat-square&color=2196F3&label=PROFILE+VIEWS"
-    alt="Profile Views"
-  />
 
 </div>
 
