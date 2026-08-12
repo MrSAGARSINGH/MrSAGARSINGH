@@ -4,21 +4,14 @@
 
 <!-- ===================== PROFILE VIEWS ===================== -->
 
-<table width="100%">
-<tr>
-<td></td>
+<div align="right">
 
-<td align="right">
 <img
-  src="https://komarev.com/ghpvc/?username=MrSAGARSINGH&style=flat-square&color=2196F3&label=Profile+views"
+  src="https://komarev.com/ghpvc/?username=MrSAGARSINGH&label=Profile%20Views&color=0e75b6&style=flat"
   alt="Profile Views"
 />
-</td>
 
-</tr>
-</table>
-
-<br />
+</div>
 
 <!-- ===================== PROFILE VIEWS ===================== -->
 <div align="center">
