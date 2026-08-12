@@ -6,11 +6,11 @@
 
 <table width="100%">
 <tr>
-<td align="left"></td>
+<td></td>
 
 <td align="right">
 <img
-  src="https://komarev.com/ghpvc/?username=MrSAGARSINGH&style=flat-square&color=2196F3&label=PROFILE+VIEWS"
+  src="https://komarev.com/ghpvc/?username=MrSAGARSINGH&style=flat-square&color=2196F3&label=Profile+views"
   alt="Profile Views"
 />
 </td>
@@ -18,6 +18,9 @@
 </tr>
 </table>
 
+<br />
+
+<!-- ===================== PROFILE VIEWS ===================== -->
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;I'm+Sagar+Singh+Khangarot;Full+Stack+Developer+🚀;MERN+Stack+Developer+💻;AI+Enthusiast+🤖&center=true&font=Righteous&size=30" />
