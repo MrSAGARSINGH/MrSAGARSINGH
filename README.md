@@ -96,33 +96,18 @@ Always learning, always building. 🚀
 
 ---
 
-<!-- ===================== GITHUB ACTIVITY ===================== -->
+<!-- ===================== GITHUB STATS ===================== -->
 
-<h2 align="center">📊 GitHub Activity</h2>
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
 
 <br />
 
 <div align="center">
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrSAGARSINGH&theme=github_dark"
-  width="95%"
-  alt="GitHub Profile Activity"
-/>
-
-<br />
-<br />
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrSAGARSINGH&theme=github_dark"
-  width="45%"
-  alt="Repositories by Language"
-/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrSAGARSINGH&theme=github_dark"
-  width="45%"
-  alt="Most Used Languages"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=MrSAGARSINGH&theme=github-dark-blue&hide_border=true"
+  width="500"
+  alt="GitHub Streak"
 />
 
 </div>
