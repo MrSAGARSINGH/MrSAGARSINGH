@@ -75,37 +75,59 @@ Currently exploring <b>Advanced React, Backend Architecture, Real-Time Systems &
 
 <h3>Languages</h3>
 
-<img src="https://skillicons.dev/icons?i=javascript,typescript,cpp,java,python" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,cpp,java" />
 
 <br />
 <br />
 
 <h3>Frontend</h3>
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,redux,tailwind,vite,gsap" />
 
 <br />
 <br />
 
-<h3>Backend</h3>
+<h3>⚙️ Backend & Database</h3>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-<br />
-<br />
-
-<h3>Database</h3>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img
+  src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,postgresql,redis"
+  alt="Backend and Database Technologies"
+/>
 
 <br />
 <br />
 
-<h3>Tools & Platforms</h3>
+<p>
+  <code>Node.js</code>
+  <code>Express.js</code>
+  <code>NestJS</code>
+  <code>MongoDB</code>
+  <code>MySQL</code>
+  <code>PostgreSQL</code>
+  <code>Redis</code>
+</p>
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,docker" />
+<h3>🛠️ Tools & Platforms</h3>
+
+<img
+  src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker,vercel,aws,figma"
+  alt="Tools and Platforms"
+/>
 
 <br />
+<br />
+
+<p>
+  <code>Git</code>
+  <code>GitHub</code>
+  <code>Postman</code>
+  <code>VS Code</code>
+  <code>Docker</code>
+  <code>Vercel</code>
+  <code>AWS</code>
+  <code>Figma</code>
+</p>
+
 <br />
 
 <h3>APIs & Technologies</h3>
