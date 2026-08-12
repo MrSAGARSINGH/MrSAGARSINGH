@@ -73,16 +73,51 @@ Currently exploring <b>Advanced React, Backend Architecture, Real-Time Systems &
 
 <div align="center">
 
-<h3>Languages</h3>
-
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,cpp,java" />
+<img
+  src="https://skillicons.dev/icons?i=javascript,typescript,python,cpp,java"
+  alt="Programming Languages"
+/>
 
 <br />
 <br />
 
-<h3>Frontend</h3>
+<p>
+  <code>JavaScript</code>
+  <code>TypeScript</code>
+  <code>Python</code>
+  <code>C++</code>
+  <code>Java</code>
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,redux,tailwind,vite,gsap" />
+
+<br />
+<br />
+
+<h3>🎨 Frontend</h3>
+
+<img
+  src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,redux,tailwind,vite,gsap"
+  alt="Frontend Technologies"
+/>
+
+<br />
+<br />
+
+<p>
+  <code>Responsive Design</code>
+  <code>React Hooks</code>
+  <code>Context API</code>
+  <code>Redux</code>
+  <code>REST API Integration</code>
+</p>
+
+<p>
+  <code>Reusable Components</code>
+  <code>State Management</code>
+  <code>Animations</code>
+  <code>Performance Optimization</code>
+  <code>SEO</code>
+</p>
 
 <br />
 <br />
