@@ -6,14 +6,35 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;I'm+Sagar+Singh+Khangarot;Full+Stack+Developer+🚀;MERN+Stack+Developer+💻;AI+Enthusiast+🤖&center=true&font=Righteous&size=30" />
 
-<h3>Full Stack Developer · MERN Stack · AI</h3>
+<div align="center">
 
 <p>
-I'm a Full Stack Developer specializing in the MERN stack.
-Passionate about building practical applications that solve real-world problems.
-Currently focused on mastering scalable web applications, backend architecture, and modern development workflows.
-Always learning, always building. 🚀
+  <b>🚀 Full Stack Developer specializing in the MERN Stack</b>
 </p>
+
+<p>
+  I build <b>modern, scalable and production-ready web applications</b>
+  that solve real-world problems.
+</p>
+
+<p>
+  💻 Frontend &nbsp;•&nbsp;
+  ⚙️ Backend &nbsp;•&nbsp;
+  🔗 REST APIs &nbsp;•&nbsp;
+  🗄️ Databases &nbsp;•&nbsp;
+  🤖 AI Integrations
+</p>
+
+<p>
+  Currently focused on <b>scalable architecture, backend systems,
+  modern development workflows and AI-powered applications.</b>
+</p>
+
+<p>
+  <i>Always learning. Always building. Always improving. ⚡</i>
+</p>
+
+</div>
 
 <br />
 
