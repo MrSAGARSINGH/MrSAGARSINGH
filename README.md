@@ -1,107 +1,143 @@
 # 👋 Hi, I'm Sagar Singh Khangarot
 
-### 🚀 MERN Stack Developer | Full-Stack Developer | AI Enthusiast
+### Full Stack Developer | MERN Stack 🚀
 
-I’m a passionate **MERN Stack Developer** focused on building modern, scalable, responsive, and user-friendly web applications.
+I’m a **Full Stack Developer specializing in the MERN Stack**, focused on building scalable, responsive, and production-ready web applications.
 
-I enjoy turning ideas into real-world products using **React.js, Node.js, Express.js, MongoDB, REST APIs, authentication, and AI integrations**.
+I work with **React.js, Node.js, Express.js, MongoDB, RESTful APIs, JWT Authentication, Socket.IO, and modern frontend technologies** to build real-world applications.
 
 ---
 
 ## 👨‍💻 About Me
 
-* 💻 MERN Stack Developer
-* ⚛️ Building modern applications with **React.js**
-* 🟢 Developing scalable backends with **Node.js & Express.js**
-* 🍃 Working with **MongoDB & REST APIs**
-* 🤖 Building and exploring **AI-powered applications**
-* 🔐 Implementing **JWT authentication & secure APIs**
-* 🎨 Interested in modern UI, animations & responsive design
-* 🚀 Deploying applications using modern cloud platforms
-* 📚 Continuously learning and improving my development skills
+* 💻 Full Stack Developer specializing in **MERN Stack**
+* ⚛️ Building modern web applications with **React.js**
+* 🟢 Developing scalable backend systems with **Node.js & Express.js**
+* 🍃 Working with **MongoDB, Mongoose & MySQL**
+* 🔐 Implementing **JWT Authentication & secure REST APIs**
+* ⚡ Building real-time applications using **WebSocket & Socket.IO**
+* 🎨 Creating responsive interfaces with **Tailwind CSS**
+* 🤖 Exploring **AI-powered applications & API integrations**
+* 🧪 API testing and development with **Postman**
+* 🚀 Deploying production applications with **Vercel**
+* 📦 Built and deployed **12+ full-stack MERN applications**
 
 ---
 
 ## 🛠️ Tech Stack
 
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,java,python,mysql" />
+</p>
+
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind,vite" />
 </p>
 
 ### Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
-### Tools & Platforms
+### Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel" />
 </p>
+
+**Also working with:** REST APIs • JWT • Axios • Mongoose • WebSocket • Socket.IO • JSON • MVC Architecture
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧠 Skill-Up — AI Interview Preparation Platform
+### 💼 CareerBridge — Full Stack Job Portal
 
-AI-powered full-stack interview preparation platform built with the MERN stack and multiple AI APIs.
+**MERN Stack | Node.js | Express.js | MongoDB | JWT**
 
-**Tech:** React.js • Node.js • Express.js • MongoDB • OpenAI • Gemini • Groq
-
-**Features:**
-
-* 🤖 AI-generated interview questions
-* 📝 AI answer evaluation & feedback
-* 🔐 JWT authentication
-* 📊 Interview performance tracking
-* 📚 Question bank
-* 👤 Profile management
-* ☁️ Cloudinary integration
-* 🔌 RESTful APIs
+* 🔐 Implemented JWT-based authentication and request validation middleware
+* 🔌 Designed **10+ RESTful APIs**
+* 👤 Built user profile management functionality
+* 💼 Implemented job posting and application tracking
+* 🍃 Designed MongoDB schemas and data models using Mongoose
+* 🏗️ Followed modular route and controller architecture
 
 ---
 
-### 💼 CareerBridge
+### 🤖 NexusAI — AI Chat Companion
 
-Backend API for a career platform.
+**React.js | Google Gemini API | Axios**
 
-**Tech:** Node.js • Express.js • MongoDB • REST APIs • JWT
-
-* 🔐 Authentication
-* 💼 Career & job APIs
-* 🗄️ MongoDB database
-* 🔌 RESTful backend architecture
-
----
-
-### 🛒 MERN E-Commerce App
-
-Full-stack e-commerce application built using the MERN stack.
-
-**Tech:** React.js • Node.js • Express.js • MongoDB
-
-* 🛍️ Product management
-* 🔐 Authentication
-* 🛒 Shopping cart
-* 🔌 REST APIs
-* 📱 Responsive UI
+* 🤖 Built an AI-powered conversational chat application
+* ⚡ Integrated Google Gemini API for real-time AI responses
+* 🔌 Implemented API integration using Axios
+* 🎨 Designed a responsive and modern chat interface
+* 🚀 Deployed the application on Vercel
 
 ---
 
-### 🌎 Country Explorer
+### 🌎 World Atlas Explorer
 
-Interactive React application for exploring countries and their information.
+**React.js | REST Countries API | Axios**
 
-**Tech:** React.js • JavaScript • REST API • Vite
+* 🌍 Built an interactive world atlas application
+* 📊 Displayed country information, demographics, and global data
+* 🔌 Integrated REST Countries API
+* 🗺️ Implemented interactive HD world map
+* 📱 Built responsive, mobile-first UI
+* ⭐ Added Seven Wonders showcase
 
-* 🌍 Country information
-* 🔎 Search & exploration
-* 📊 Population and regional data
-* 📱 Responsive design
+---
+
+### 🛒 E-Commerce Web Application
+
+**MERN Stack | REST APIs**
+
+* 🛍️ Product listing and management
+* 🛒 Shopping cart functionality
+* 🔌 REST API integration
+* 📦 Managed 100+ products
+
+---
+
+### 💬 Real-Time Chat Application
+
+**React.js | Node.js | Socket.IO**
+
+* 💬 Implemented real-time messaging
+* ⚡ Built WebSocket-based communication using Socket.IO
+* 🚀 Achieved sub-second message delivery
+* 🔄 Designed real-time client-server communication
+
+---
+
+## 💼 Experience
+
+### MERN Stack Developer Intern — SkillUpgradCamp Inc.
+
+**Aug 2025 – Jan 2026**
+
+* Developed full-stack applications using React.js, Node.js, Express.js and MongoDB
+* Designed and integrated RESTful APIs
+* Implemented JWT-based authentication
+* Built CRUD operations and database management features
+* Worked with **15+ API endpoints**
+* Used Git, GitHub, Postman and Chrome DevTools
+* Followed Agile development practices
+
+### Open Source Contributor
+
+**Jan 2025 – Apr 2025**
+
+* Developed RESTful APIs using Node.js and Express.js
+* Worked with MongoDB and Mongoose
+* Implemented real-time communication features
+* Collaborated through GitHub, pull requests and code reviews
 
 ---
 
@@ -117,33 +153,27 @@ Interactive React application for exploring countries and their information.
 
 ---
 
-## 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSAGARSINGH&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🎯 Current Focus
 
 ```text
-MERN Stack
-    ↓
 Advanced React.js
-    ↓
-Node.js & Backend Architecture
-    ↓
-REST APIs & Databases
-    ↓
+        ↓
+Node.js & Express.js
+        ↓
+REST APIs & Backend Architecture
+        ↓
+MongoDB & Database Design
+        ↓
+Real-Time Applications
+        ↓
 AI Integration
-    ↓
+        ↓
 Scalable Full-Stack Applications
 ```
 
 ---
 
-## 🤝 Connect With Me
+## 📫 Connect With Me
 
 📧 **Email:** [sagarsinghkhangarot49@gmail.com](mailto:sagarsinghkhangarot49@gmail.com)
 
@@ -159,10 +189,10 @@ Scalable Full-Stack Applications
 
 ## ⚡ Fun Fact
 
-> I love turning ideas into real-world applications and continuously pushing my development skills to the next level.
+> I enjoy turning ideas into real-world applications and continuously improving my development skills.
 
 ---
 
 ### ⭐ Thanks for visiting my profile!
 
-**Made with ❤️ by Sagar Singh Khangarot**
+**Sagar Singh Khangarot | Full Stack Developer (MERN Stack)**
