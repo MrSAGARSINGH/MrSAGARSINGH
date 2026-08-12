@@ -39,29 +39,35 @@ Building modern web applications, scalable APIs & intelligent digital experience
 
 ---
 
+<!-- ===================== ABOUT SECTION ===================== -->
+
 <h2 align="center">👨‍💻 About Me</h2>
 
 <div align="center">
 
-Full Stack Developer specializing in the <b>MERN Stack</b>.
+I’m a <b>Full Stack Developer</b> specializing in the <b>MERN Stack</b>,
+focused on building modern and production-ready web applications.
 
 <br />
-
-Passionate about building responsive, scalable and production-ready applications.
-
 <br />
 
-Experienced with REST APIs, JWT authentication, MongoDB, real-time systems and AI integrations.
+I work across <b>Frontend, Backend, APIs, Databases & AI Integrations</b>,
+with a strong focus on clean architecture, responsive interfaces and real-world problem solving.
 
 <br />
+<br />
 
-Always learning. Always building. Always improving. 🚀
+Currently exploring <b>Advanced React, Backend Architecture, Real-Time Systems & AI-powered applications.</b>
 
 </div>
 
+<br />
+
 ---
 
-<h2 align="center">🔥 Languages · Frameworks · Tools</h2>
+<!-- ===================== TECH STACK ===================== -->
+
+<h2 align="center">⚡ Tech Stack</h2>
 
 <br />
 
@@ -69,7 +75,7 @@ Always learning. Always building. Always improving. 🚀
 
 <h3>Languages</h3>
 
-<img src="https://skillicons.dev/icons?i=js,ts,cpp,java,python" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,cpp,java,python" />
 
 <br />
 <br />
@@ -81,28 +87,46 @@ Always learning. Always building. Always improving. 🚀
 <br />
 <br />
 
-<h3>Backend & Database</h3>
+<h3>Backend</h3>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
 <br />
 <br />
 
-<h3>APIs & Real-Time</h3>
+<h3>Database</h3>
 
-<p>
-REST APIs · JWT · Axios · WebSocket · Socket.IO · Mongoose · JSON
-</p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
+<br />
 <br />
 
 <h3>Tools & Platforms</h3>
 
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,docker" />
 
+<br />
+<br />
+
+<h3>APIs & Technologies</h3>
+
+<p>
+  <code>REST APIs</code>
+  <code>JWT</code>
+  <code>Axios</code>
+  <code>Socket.IO</code>
+  <code>WebSocket</code>
+  <code>Mongoose</code>
+  <code>JSON</code>
+</p>
+
 </div>
 
+<br />
+
 ---
+
+<!-- ===================== EXPERIENCE ===================== -->
 
 <h2 align="center">💼 Experience</h2>
 
@@ -110,39 +134,53 @@ REST APIs · JWT · Axios · WebSocket · Socket.IO · Mongoose · JSON
 
 <div align="center">
 
-<h3>MERN Stack Developer Intern</h3>
+<h3>🚀 MERN Stack Developer Intern</h3>
 
-<b>SkillUpgradCamp Inc. · Aug 2025 – Jan 2026</b>
+<p>
+<b>SkillUpgradCamp Inc.</b> · Aug 2025 – Jan 2026
+</p>
 
 <p>
 React.js · Node.js · Express.js · MongoDB
 </p>
 
 <p>
-<b>REST APIs · JWT Authentication · CRUD · 15+ API Endpoints</b>
+Built and integrated <b>RESTful APIs</b>, implemented
+<b>JWT authentication</b>, and developed CRUD-based backend features.
 </p>
 
 <p>
-Git · GitHub · Postman · Chrome DevTools · Agile
+<b>15+ API Endpoints</b> · Git · GitHub · Postman · Agile
 </p>
 
 <br />
 
-<h3>Open Source Contributor</h3>
+<hr width="60%" />
 
-<b>Web Development Projects · Jan 2025 – Apr 2025</b>
+<br />
+
+<h3>🌐 Open Source Contributor</h3>
 
 <p>
-REST APIs · MongoDB · Mongoose · WebSocket
+<b>Web Development Projects</b> · Jan 2025 – Apr 2025
 </p>
 
 <p>
-GitHub · Pull Requests · Peer Code Reviews
+Worked with <b>Node.js, Express.js, MongoDB & Mongoose</b>
+to develop REST APIs and real-time communication features.
+</p>
+
+<p>
+GitHub · Pull Requests · Peer Code Reviews · Collaboration
 </p>
 
 </div>
 
+<br />
+
 ---
+
+<!-- ===================== DEVELOPER HIGHLIGHTS ===================== -->
 
 <h2 align="center">⚡ Developer Highlights</h2>
 
@@ -153,32 +191,52 @@ GitHub · Pull Requests · Peer Code Reviews
 <table>
 <tr>
 
-<td align="center" width="180">
-<h3>🚀</h3>
-<b>12+</b>
-<br />
-Full-Stack Applications
+<td align="center" width="200">
+  <br />
+  <img src="https://img.icons8.com/fluency/48/rocket.png" alt="Applications" />
+  <br />
+  <br />
+  <b>12+</b>
+  <br />
+  Full-Stack Applications
+  <br />
+  <br />
 </td>
 
-<td align="center" width="180">
-<h3>🔌</h3>
-<b>15+</b>
-<br />
-API Endpoints
+<td align="center" width="200">
+  <br />
+  <img src="https://img.icons8.com/fluency/48/api-settings.png" alt="APIs" />
+  <br />
+  <br />
+  <b>15+</b>
+  <br />
+  API Endpoints
+  <br />
+  <br />
 </td>
 
-<td align="center" width="180">
-<h3>🤖</h3>
-<b>AI</b>
-<br />
-Powered Applications
+<td align="center" width="200">
+  <br />
+  <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" alt="AI" />
+  <br />
+  <br />
+  <b>AI</b>
+  <br />
+  Powered Applications
+  <br />
+  <br />
 </td>
 
-<td align="center" width="180">
-<h3>⚡</h3>
-<b>Real-Time</b>
-<br />
-Applications
+<td align="center" width="200">
+  <br />
+  <img src="https://img.icons8.com/fluency/48/lightning-bolt.png" alt="Real Time" />
+  <br />
+  <br />
+  <b>Real-Time</b>
+  <br />
+  Applications
+  <br />
+  <br />
 </td>
 
 </tr>
@@ -186,19 +244,31 @@ Applications
 
 </div>
 
+<br />
+
 ---
 
+<!-- ===================== GITHUB CONTRIBUTIONS ===================== -->
+
 <h2 align="center">🐍 GitHub Contributions</h2>
+
+<br />
 
 <div align="center">
 
 <img
   src="https://raw.githubusercontent.com/MrSAGARSINGH/MrSAGARSINGH/output/github-snake-dark.svg"
-  alt="GitHub Contribution Snake"
+  alt="Sagar Singh Khangarot GitHub Contribution Snake"
   width="100%"
 />
 
 </div>
+
+<br />
+
+---
+
+<!-- ===================== GITHUB ACTIVITY ===================== -->
 
 <h2 align="center">📊 GitHub Activity</h2>
 
@@ -209,7 +279,7 @@ Applications
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrSAGARSINGH&theme=github_dark"
   width="95%"
-  alt="GitHub Profile Summary"
+  alt="GitHub Profile Activity"
 />
 
 <br />
@@ -218,18 +288,22 @@ Applications
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrSAGARSINGH&theme=github_dark"
   width="45%"
-  alt="Repositories per Language"
+  alt="Repositories by Language"
 />
 
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrSAGARSINGH&theme=github_dark"
   width="45%"
-  alt="Most Commit Language"
+  alt="Most Used Languages"
 />
 
 </div>
 
+<br />
+
 ---
+
+<!-- ===================== CURRENTLY LEARNING ===================== -->
 
 <h2 align="center">🎯 Currently Learning & Building</h2>
 
@@ -237,18 +311,80 @@ Applications
 
 <div align="center">
 
-`Advanced React.js` · `Backend Architecture` · `REST APIs`
+<p>
+  <code>Advanced React.js</code>
+  <code>TypeScript</code>
+  <code>Next.js</code>
+  <code>State Management</code>
+</p>
 
-`Real-Time Systems` · `AI Integration` · `Performance Optimization`
+<p>
+  <code>Backend Architecture</code>
+  <code>REST API Design</code>
+  <code>JWT & Security</code>
+  <code>Database Optimization</code>
+</p>
+
+<p>
+  <code>Real-Time Systems</code>
+  <code>WebSockets</code>
+  <code>Socket.IO</code>
+  <code>AI Integration</code>
+</p>
+
+<p>
+  <code>Performance Optimization</code>
+  <code>Scalable Applications</code>
+  <code>Clean Architecture</code>
+  <code>Production Deployment</code>
+</p>
 
 <br />
+
+<table>
+<tr>
+
+<td align="center" width="220">
+  <h3>⚛️ Frontend</h3>
+  React Architecture<br />
+  Performance<br />
+  TypeScript<br />
+  Modern UI
+</td>
+
+<td align="center" width="220">
+  <h3>⚙️ Backend</h3>
+  API Architecture<br />
+  Authentication<br />
+  Database Design<br />
+  Scalability
+</td>
+
+<td align="center" width="220">
+  <h3>🤖 AI & Real-Time</h3>
+  AI APIs<br />
+  WebSockets<br />
+  Socket.IO<br />
+  Intelligent Systems
+</td>
+
+</tr>
+</table>
+
 <br />
 
-<b>Focused on building scalable, secure and production-ready software.</b>
+<p>
+  <b>Focused on designing scalable systems, improving application performance
+  and building production-ready full-stack products.</b>
+</p>
 
 </div>
 
+<br />
+
 ---
+
+<!-- ===================== CONNECT ===================== -->
 
 <h2 align="center">🤝 Let's Connect</h2>
 
@@ -256,26 +392,67 @@ Applications
 
 <div align="center">
 
+<p>
+  <b>Have an idea, opportunity or collaboration in mind?</b>
+</p>
+
+<p>
+  I'm always open to connecting, learning and building something meaningful.
+</p>
+
+<br />
+
 <a href="https://www.linkedin.com/in/sagarsinghkhangarot/">
-<img src="https://img.shields.io/badge/LinkedIn-Sagar%20Singh%20Khangarot-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 
 <a href="https://sagar-portfolio-ppl2.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/Portfolio-Explore-000000?style=for-the-badge&logo=vercel&logoColor=white"
+    alt="Portfolio"
+  />
 </a>
 
 <a href="mailto:sagarsinghkhangarot49@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
+</a>
+
+<br />
+<br />
+
+<a href="https://github.com/MrSAGARSINGH">
+  <img
+    src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
 </a>
 
 </div>
 
 <br />
 
+---
+
+<!-- ===================== FOOTER ===================== -->
+
 <div align="center">
 
 <h3>🚀 Build · Learn · Ship · Repeat</h3>
 
-<b>Sagar Singh Khangarot</b>
+<p>
+  <i>Turning ideas into real-world software.</i>
+</p>
+
+<br />
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=120&section=footer"
+/>
 
 </div>
