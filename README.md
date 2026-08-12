@@ -46,7 +46,10 @@
 <br />
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=MrSAGARSINGH&style=flat-square&color=6366f1&label=PROFILE+VIEWS" />
+ <img
+    src="https://komarev.com/ghpvc/?username=MrSAGARSINGH&style=flat-square&color=2196F3&label=PROFILE+VIEWS"
+    alt="Profile Views"
+  />
 
 </div>
 
