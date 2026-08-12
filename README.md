@@ -200,30 +200,31 @@ Applications
 
 </div>
 
----
-
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">📊 GitHub Activity</h2>
 
 <br />
 
 <div align="center">
 
 <img
-  width="390"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=MrSAGARSINGH&theme=react&hide_border=true"
-/>
-
-<img
-  width="390"
-  src="https://github-readme-stats.vercel.app/api?username=MrSAGARSINGH&show_icons=true&theme=react&hide_border=true&rank_icon=github"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrSAGARSINGH&theme=github_dark"
+  width="95%"
+  alt="GitHub Profile Summary"
 />
 
 <br />
 <br />
 
 <img
-  width="390"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSAGARSINGH&layout=compact&theme=react&hide_border=true"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrSAGARSINGH&theme=github_dark"
+  width="45%"
+  alt="Repositories per Language"
+/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrSAGARSINGH&theme=github_dark"
+  width="45%"
+  alt="Most Commit Language"
 />
 
 </div>
