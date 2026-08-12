@@ -2,10 +2,21 @@
 <!--                    SAGAR SINGH KHANGAROT                       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
- <img
-    src="https://komarev.com/ghpvc/?username=MrSAGARSINGH&style=flat-square&color=2196F3&label=PROFILE+VIEWS"
-    alt="Profile Views"
-  />
+<!-- ===================== PROFILE VIEWS ===================== -->
+
+<table width="100%">
+<tr>
+<td align="left"></td>
+
+<td align="right">
+<img
+  src="https://komarev.com/ghpvc/?username=MrSAGARSINGH&style=flat-square&color=2196F3&label=PROFILE+VIEWS"
+  alt="Profile Views"
+/>
+</td>
+
+</tr>
+</table>
 
 <div align="center">
 
