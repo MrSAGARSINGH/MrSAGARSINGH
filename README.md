@@ -6,10 +6,10 @@
 
 <div align="right">
 
-<img
-  src="https://komarev.com/ghpvc/?username=MrSAGARSINGH&label=Profile%20Views&color=0e75b6&style=flat"
-  alt="Profile Views"
-/>
+ <img
+    src="https://komarev.com/ghpvc/?username=MrSAGARSINGH&label=PROFILE+VIEWS&color=0e75b6&style=flat"
+    alt="PROFILE VIEWS"
+  />
 
 </div>
 
