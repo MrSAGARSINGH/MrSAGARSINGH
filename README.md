@@ -104,10 +104,14 @@ Always learning, always building. 🚀
 
 <div align="center">
 
+<a href="https://github.com/MrSAGARSINGH">
+
 <img
-  src="https://streak-stats.demolab.com/?user=MrSAGARSINGH&theme=github-dark-blue"
-  alt="GitHub Streak"
+  src="https://streak-stats.demolab.com/?user=MrSAGARSINGH&theme=github-dark-blue&hide_border=true&border_radius=10&card_width=600&card_height=195"
+  alt="Sagar Singh Khangarot GitHub Stats"
 />
+
+</a>
 
 </div>
 
