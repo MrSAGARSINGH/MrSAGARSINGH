@@ -9,7 +9,10 @@
 <h3>Full Stack Developer · MERN Stack · AI</h3>
 
 <p>
-Building modern web applications, scalable APIs & intelligent digital experiences.
+I'm a Full Stack Developer specializing in the MERN stack.
+Passionate about building practical applications that solve real-world problems.
+Currently focused on mastering scalable web applications, backend architecture, and modern development workflows.
+Always learning, always building. 🚀
 </p>
 
 <br />
@@ -36,34 +39,6 @@ Building modern web applications, scalable APIs & intelligent digital experience
 <img src="https://komarev.com/ghpvc/?username=MrSAGARSINGH&style=flat-square&color=6366f1&label=PROFILE+VIEWS" />
 
 </div>
-
----
-
-<!-- ===================== ABOUT SECTION ===================== -->
-
-<h2 align="center">👨‍💻 About Me</h2>
-
-<div align="center">
-
-I’m a <b>Full Stack Developer</b> specializing in the <b>MERN Stack</b>,
-focused on building modern and production-ready web applications.
-
-<br />
-<br />
-
-I work across <b>Frontend, Backend, APIs, Databases & AI Integrations</b>,
-with a strong focus on clean architecture, responsive interfaces and real-world problem solving.
-
-<br />
-<br />
-
-Currently exploring <b>Advanced React, Backend Architecture, Real-Time Systems & AI-powered applications.</b>
-
-</div>
-
-<br />
-
----
 
 <!-- ===================== TECH STACK ===================== -->
 
