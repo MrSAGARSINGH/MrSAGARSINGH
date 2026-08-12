@@ -84,7 +84,7 @@
 <h3>⚙️ Backend & Database</h3>
 
 <img
-  src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,postgresql,redis"
+  src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,redis"
   alt="Backend and Database Technologies"
 />
 
