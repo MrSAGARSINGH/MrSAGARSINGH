@@ -99,7 +99,9 @@
 
 <!-- ===================== GITHUB CONTRIBUTIONS ===================== -->
 
-<h2 align="center">🐍 GitHub Contributions</h2>
+<!-- ===================== CONTRIBUTION SNAKE ===================== -->
+
+<h2 align="center">🐍 Snake Eating My Contributions 🐍</h2>
 
 <br />
 
@@ -107,7 +109,7 @@
 
 <img
   src="https://raw.githubusercontent.com/MrSAGARSINGH/MrSAGARSINGH/output/github-snake-dark.svg"
-  alt="Sagar Singh Khangarot GitHub Contribution Snake"
+  alt="GitHub Contribution Snake"
   width="100%"
 />
 
