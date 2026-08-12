@@ -103,22 +103,6 @@ Currently exploring <b>Advanced React, Backend Architecture, Real-Time Systems &
 <br />
 <br />
 
-<p>
-  <code>Responsive Design</code>
-  <code>React Hooks</code>
-  <code>Context API</code>
-  <code>Redux</code>
-  <code>REST API Integration</code>
-</p>
-
-<p>
-  <code>Reusable Components</code>
-  <code>State Management</code>
-  <code>Animations</code>
-  <code>Performance Optimization</code>
-  <code>SEO</code>
-</p>
-
 <br />
 <br />
 
