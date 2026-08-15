@@ -77,7 +77,7 @@
 <h3>🎨 Frontend</h3>
 
 <img
-  src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind,vite,gsap,framer"
+  src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind,vite"
   alt="Frontend Technologies"
 />
 
