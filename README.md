@@ -94,6 +94,7 @@
   src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker,vercel,aws,figma"
   alt="Tools and Platforms"
 />
+</div>
 
 ---
 
