@@ -120,41 +120,60 @@
 
 ---
 
-<!-- ===================== GITHUB ACTIVITY ===================== -->
+<!-- ===================== DEVELOPER ACTIVITY ===================== -->
 
-<h2 align="center">⚡ GitHub Activity ⚡</h2>
+<h2 align="center">⚡ Developer Activity ⚡</h2>
 
 <p align="center">
-  <i>Building • Learning • Contributing • Growing 🚀</i>
+  <i>Turning ideas into scalable, real-world applications.</i> 🚀
 </p>
+
+<br />
+
+<table align="center">
+  <tr>
+    <td align="center" width="180">
+      <h3>💻</h3>
+      <b>Full Stack</b>
+      <br />
+      <sub>MERN Development</sub>
+    </td>
+
+    <td align="center" width="180">
+      <h3>🚀</h3>
+      <b>Projects</b>
+      <br />
+      <sub>Real-World Solutions</sub>
+    </td>
+
+    <td align="center" width="180">
+      <h3>🔥</h3>
+      <b>Consistency</b>
+      <br />
+      <sub>Code • Learn • Repeat</sub>
+    </td>
+
+    <td align="center" width="180">
+      <h3>📚</h3>
+      <b>Learning</b>
+      <br />
+      <sub>Always Improving</sub>
+    </td>
+  </tr>
+</table>
 
 <br />
 
 <div align="center">
 
-  <a href="https://github.com/MrSAGARSINGH">
-    <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrSAGARSINGH&theme=github_dark"
-      alt="Sagar Singh Khangarot GitHub Activity"
-      width="90%"
-    />
-  </a>
-
-</div>
-
-<br />
-
-<p align="center">
-  <a href="https://github.com/MrSAGARSINGH?tab=repositories">
-    <b>🚀 Explore My Projects</b>
-  </a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://github.com/MrSAGARSINGH?tab=overview">
-    <b>📊 View GitHub Activity</b>
-  </a>
-</p>
-
----
+```text
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│   🧠 LEARN     →     💻 BUILD     →     🚀 SHIP     │
+│                                                      │
+│          Repeat. Improve. Build Something Better.   │
+│                                                      │
+└──────────────────────────────────────────────────────┘
 
 <!-- ===================== CONNECT ===================== -->
 
