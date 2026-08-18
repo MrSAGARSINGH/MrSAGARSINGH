@@ -120,60 +120,28 @@
 
 ---
 
-<!-- ===================== DEVELOPER ACTIVITY ===================== -->
+<!-- ===================== GITHUB STATS ===================== -->
 
-<h2 align="center">⚡ Developer Activity ⚡</h2>
-
-<p align="center">
-  <i>Turning ideas into scalable, real-world applications.</i> 🚀
-</p>
-
-<br />
-
-<table align="center">
-  <tr>
-    <td align="center" width="180">
-      <h3>💻</h3>
-      <b>Full Stack</b>
-      <br />
-      <sub>MERN Development</sub>
-    </td>
-
-    <td align="center" width="180">
-      <h3>🚀</h3>
-      <b>Projects</b>
-      <br />
-      <sub>Real-World Solutions</sub>
-    </td>
-
-    <td align="center" width="180">
-      <h3>🔥</h3>
-      <b>Consistency</b>
-      <br />
-      <sub>Code • Learn • Repeat</sub>
-    </td>
-
-    <td align="center" width="180">
-      <h3>📚</h3>
-      <b>Learning</b>
-      <br />
-      <sub>Always Improving</sub>
-    </td>
-  </tr>
-</table>
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
 
 <br />
 
 <div align="center">
 
-```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│   🧠 LEARN     →     💻 BUILD     →     🚀 SHIP     │
-│                                                      │
-│          Repeat. Improve. Build Something Better.   │
-│                                                      │
-└──────────────────────────────────────────────────────┘
+<a href="https://github.com/MrSAGARSINGH">
+
+<img
+  src="https://streak-stats.demolab.com/?user=MrSAGARSINGH&theme=github-dark-blue&hide_border=true&border_radius=10&card_width=600&card_height=195"
+  alt="Sagar Singh Khangarot GitHub Stats"
+/>
+
+</a>
+
+</div>
+
+<br />
+
+---
 
 <!-- ===================== CONNECT ===================== -->
 
