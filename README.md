@@ -122,24 +122,31 @@
 
 <!-- ===================== GITHUB STATS ===================== -->
 
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<h2 align="center">⚡ GitHub Activity & Stats ⚡</h2>
+
+<p align="center">
+  <i>Consistency, contribution, and continuous learning 🚀</i>
+</p>
 
 <br />
 
 <div align="center">
 
-<a href="https://github.com/MrSAGARSINGH">
-
-<img
-  src="https://streak-stats.demolab.com/?user=MrSAGARSINGH&theme=github-dark-blue&hide_border=true&border_radius=10&card_width=600&card_height=195"
-  alt="Sagar Singh Khangarot GitHub Stats"
-/>
-
-</a>
+  <a href="https://github.com/MrSAGARSINGH">
+    <img
+      src="https://streak-stats.demolab.com/?user=MrSAGARSINGH&theme=github-dark-blue&hide_border=true&border_radius=12&card_width=600&card_height=195"
+      alt="Sagar Singh Khangarot GitHub Contribution Streak"
+      width="600"
+    />
+  </a>
 
 </div>
 
 <br />
+
+<p align="center">
+  <b>💻 Building • Learning • Contributing • Growing</b>
+</p>
 
 ---
 
