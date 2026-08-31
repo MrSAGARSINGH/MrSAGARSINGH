@@ -3,10 +3,6 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <!-- ===================== PROFILE VIEWS ===================== -->
-# Sagar Singh Khangarot
-
-## Full Stack MERN Developer 🚀 | Building Real-World Solutions
-
 
 <div align="right">
 
