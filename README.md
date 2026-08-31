@@ -3,6 +3,20 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <!-- ===================== PROFILE VIEWS ===================== -->
+# Sagar Singh Khangarot
+
+## Full Stack MERN Developer 🚀 | Building Real-World Solutions
+
+I'm **Sagar Singh Khangarot**, a Full Stack Developer specializing in the
+**MERN Stack** — React.js, Node.js, Express.js, and MongoDB.
+
+I build scalable, responsive, and production-ready web applications with
+modern frontend, backend, API integration, authentication, and database
+architecture.
+
+🌐 **Portfolio:** https://sagar-portfolio-ppl2.vercel.app/  
+💼 **LinkedIn:** https://linkedin.com/in/sagarsinghkhangarot  
+💻 **GitHub:** https://github.com/MrSAGARSINGH
 
 <div align="right">
 
